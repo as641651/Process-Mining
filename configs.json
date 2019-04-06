@@ -1,0 +1,24 @@
+{
+    "00_Formalism.ipynb": {
+        "code_url": "",
+        "page_id": 63601,
+        "page_name": "00_Formalism",
+        "pdf": false
+    },
+    "01_Decomposing_Generic_Petri_Nets.ipynb": {
+        "code_url": "",
+        "page_id": 63602,
+        "page_name": "01_Decomposing_Generic_Petri_Nets",
+        "pdf": false
+    },
+    "author": "Aravind Sankaran",
+    "dir_path": "/home/sankaran/exercise/ML/Process-Mining/",
+    "dir_static": "files",
+    "file_list": [
+        "00_Formalism.ipynb",
+        "01_Decomposing_Generic_Petri_Nets.ipynb"
+    ],
+    "module_id": 63600,
+    "module_name": "Process-Mining",
+    "tags": "BC"
+}
