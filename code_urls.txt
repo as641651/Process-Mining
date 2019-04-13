@@ -4,3 +4,9 @@
 01_Decomposing_Generic_Petri_Nets.ipynb
 
 
+02_Learning_Hybrid_Process_models.ipynb
+
+
+Appendix.ipynb
+
+
