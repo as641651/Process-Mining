@@ -7,6 +7,9 @@
 02_Learning_Hybrid_Process_models.ipynb
 
 
+03_Scalable_process_discovery_with_guarantees.ipynb
+
+
 Appendix.ipynb
 
 

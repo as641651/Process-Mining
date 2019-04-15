@@ -17,9 +17,15 @@
         "page_name": "02_Learning_Hybrid_Process_models",
         "pdf": false
     },
-    "Appendix.ipynb": {
+    "03_Scalable_process_discovery_with_guarantees.ipynb": {
         "code_url": "",
         "page_id": 63604,
+        "page_name": "03_Scalable_process_discovery_with_guarantees",
+        "pdf": false
+    },
+    "Appendix.ipynb": {
+        "code_url": "",
+        "page_id": 63605,
         "page_name": "Appendix",
         "pdf": false
     },
@@ -30,6 +36,7 @@
         "00_Formalism.ipynb",
         "01_Decomposing_Generic_Petri_Nets.ipynb",
         "02_Learning_Hybrid_Process_models.ipynb",
+        "03_Scalable_process_discovery_with_guarantees.ipynb",
         "Appendix.ipynb"
     ],
     "module_id": 63600,
