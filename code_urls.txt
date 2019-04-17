@@ -1,4 +1,7 @@
-00_Formalism.ipynb
+00A_Formalism.ipynb
+
+
+00B_Evaluation.ipynb
 
 
 01_Decomposing_Generic_Petri_Nets.ipynb

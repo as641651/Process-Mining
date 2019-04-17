@@ -1,31 +1,37 @@
 {
-    "00_Formalism.ipynb": {
+    "00A_Formalism.ipynb": {
         "code_url": "",
         "page_id": 63601,
-        "page_name": "00_Formalism",
+        "page_name": "00A_Formalism",
+        "pdf": false
+    },
+    "00B_Evaluation.ipynb": {
+        "code_url": "",
+        "page_id": 63602,
+        "page_name": "00B_Evaluation",
         "pdf": false
     },
     "01_Decomposing_Generic_Petri_Nets.ipynb": {
         "code_url": "",
-        "page_id": 63602,
+        "page_id": 63603,
         "page_name": "01_Decomposing_Generic_Petri_Nets",
         "pdf": false
     },
     "02_Learning_Hybrid_Process_models.ipynb": {
         "code_url": "",
-        "page_id": 63603,
+        "page_id": 63604,
         "page_name": "02_Learning_Hybrid_Process_models",
         "pdf": false
     },
     "03_Scalable_process_discovery_with_guarantees.ipynb": {
         "code_url": "",
-        "page_id": 63604,
+        "page_id": 63605,
         "page_name": "03_Scalable_process_discovery_with_guarantees",
         "pdf": false
     },
     "Appendix.ipynb": {
         "code_url": "",
-        "page_id": 63605,
+        "page_id": 63606,
         "page_name": "Appendix",
         "pdf": false
     },
@@ -33,7 +39,8 @@
     "dir_path": "/home/sankaran/exercise/ML/Process-Mining/",
     "dir_static": "files",
     "file_list": [
-        "00_Formalism.ipynb",
+        "00A_Formalism.ipynb",
+        "00B_Evaluation.ipynb",
         "01_Decomposing_Generic_Petri_Nets.ipynb",
         "02_Learning_Hybrid_Process_models.ipynb",
         "03_Scalable_process_discovery_with_guarantees.ipynb",
